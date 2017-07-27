@@ -747,6 +747,12 @@ body {
 }
 
 .contato{
-  background-color: gray;
-  text-align: left;
+  background-color: rgba(102,102,102,0.8);
+  text-align:left;
+  border-color: darkgray;
+  border-width: 5px;
+  border-style: solid;
+  color:white
+  ;text-align: center;
+  font-size: 28px
 }
