@@ -218,7 +218,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #08365d;
+    background-color: #286090;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
@@ -747,9 +747,9 @@ body {
 }
 
 .contato{
-  background-color: rgba(102,102,102,0.8);
+  background-color: rgba(40,96,144,0.8);
   text-align:left;
-  border-color: darkgray;
+  border-color: #0e4c82;
   border-width: 5px;
   border-style: solid;
   color:white
