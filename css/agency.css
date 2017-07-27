@@ -745,3 +745,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #286090;
 }
+
+.contato{
+  background-color: gray;
+  text-align: left;
+}
