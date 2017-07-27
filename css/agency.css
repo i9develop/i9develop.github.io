@@ -754,5 +754,6 @@ body {
   border-style: solid;
   color:white
   ;text-align: center;
-  font-size: 28px
+  font-size: 28px;
+  border-radius:10px;
 }
